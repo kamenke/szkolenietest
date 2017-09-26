@@ -1,0 +1,38 @@
+Czeœæ,
+
+ 
+
+dosta³am od prowadz¹cego nasze szkolenie listê rzeczy które dobrze by³oby mieæ zainstalowane na potrzeby szkolenia.
+
+Obawiam siê, ¿e przynajmniej czêœci z tych aplikacji nie da siê zainstalowaæ u nas na komputerach s³u¿bowych dlatego chyba najlepszym rozwi¹zaniem bêdzie korzystanie, w miarê mo¿liwoœci, z laptopów prywatnych.
+
+ 
+
+Poni¿ej instrukcje od trenera:
+
+ 
+
+„Jeœli chodzi o narzêdzia to na pewno potrzebowaæ bêdziemy:
+1. Przegl¹darki internetowe - google Chrome, Firefox (w tym jedno wydanie w wersji <55.0)
+2. Zainstalowany program Test Complete -  https://smartbear.com/product/testcomplete/overview/ (wersja trial 30 dniowa)
+3. Pobrany i zainstalowany program PICT - http://download.microsoft.com/download/f/5/5/f55484df-8494-48fa-8dbd-8c6f76cc014b/pict33.msi
+4. Zainstalowany klient GIT - https://git-for-windows.github.io 1. zak³adam, ¿e pracowaæ bêdziemy pod Windowsem
+2. zainstalowaæ klienta tortoise git - https://tortoisegit.org/download/ (u mnie na pasku zadan)
+5. Pobrany program Rapid Reporter - http://testing.gershon.info/reporter
+6. Za³o¿yæ konto tymczasowe na qTest - https://www.qasymphony.com/software-testing-tools/qtest-manager/test-case-management/
+7. Za³o¿yæ konto na Jira - https://pl.atlassian.com/ondemand/signup/form?product=jira-software.ondemand 1. pobraæ dodatek Capture for Jira - https://www.atlassian.com/software/jira/capture i zanistalowaæ jako aplikacja w chmurze (for jira cloud)
+
+
+qtest i atlassian - psw KamilaMenke1, login mila+szkolenietest@menke.pl
+
+Dobrze by by³o równie¿ aby komputery mog³y siê nawzajem widzieæ w sieci. Czêœæ aplikacji bêdzie pracowaæ na moim komputerze a Pañstwo bêdziecie siê z nim ³¹czyæ.”
+
+ 
+Pozdrawiam,
+ 
+
+Elzbieta (Ela) TUCZAPSKA 
+
+
+Has³o do guest net wifi:
+sx8qvz2b
